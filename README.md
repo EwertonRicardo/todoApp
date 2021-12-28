@@ -9,4 +9,11 @@
 > ScrollView <br>
 > FlatList
 
-###### Lastly, I could have a look about how to pass parameters between components.
+## Nexts features
+
+- [ ] Show alert message if the user adds a task that already exists
+- [ ] Allow the user to edit a task
+- [ ] Show alert message to confirm if the user wants to remove a task
+- [ ] Implemented the localStorage to save the task
+
+
