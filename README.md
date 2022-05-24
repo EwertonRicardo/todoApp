@@ -12,8 +12,8 @@
 ## Nexts features
 
 - [x] Show alert message if the user adds a task that already exists
-- [ ] Allow the user to edit a task
-- [ ] Show alert message to confirm if the user wants to remove a task
+- [x] Allow the user to edit a task
+- [x] Show alert message to confirm if the user wants to remove a task
 - [ ] Implemented the localStorage to save the task
 
 
