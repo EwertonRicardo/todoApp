@@ -14,6 +14,6 @@
 - [x] Show alert message if the user adds a task that already exists
 - [x] Allow the user to edit a task
 - [x] Show alert message to confirm if the user wants to remove a task
-- [ ] Implemented the localStorage to save the task
+- [ ] Implement the localStorage to save the task
 
 
